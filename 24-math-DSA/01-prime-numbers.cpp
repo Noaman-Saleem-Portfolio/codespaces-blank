@@ -19,6 +19,7 @@ bool isPrime(int n) {
 int main() {
 
     int n;
+    cout<<"Enter a number"<<endl;
     cin >> n;
 
     if(isPrime(n)) {
